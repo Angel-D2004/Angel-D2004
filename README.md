@@ -1,4 +1,4 @@
-\# 👋 Hola, soy Gabriel Díaz
+\👋 Hola, soy Gabriel Díaz
 
 
 
@@ -8,11 +8,11 @@
 
 
 
-\---
 
 
 
-\## 🚀 Sobre mí
+
+\🚀 Sobre mí
 
 
 
@@ -28,15 +28,12 @@ Me gusta aprender mediante proyectos y resolver problemas de forma práctica.
 
 
 
-\---
+
+\🛠️ Tecnologías
 
 
 
-\## 🛠️ Tecnologías
-
-
-
-\### Lenguajes
+\Lenguajes
 
 \- C
 
